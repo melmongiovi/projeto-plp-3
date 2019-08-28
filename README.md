@@ -1,5 +1,7 @@
 # Projeto PLP - Lobisomem
 
+![](http://www.auplod.com/u/laopudba40e.png)
+
 Lobisomem é um jogo ambientado em uma pequena aldeia que é assombrada por lobisomens. Para cada jogador é atribuído um papel secretamente - Lobisomem, aldeão ou caçador. 
 
 - *Para uma boa jogatina, é recomendado partidadas com 8 a 24 jogadores.*
