@@ -22,3 +22,13 @@ Lobisomem é um jogo ambientado em uma pequena aldeia que é assombrada por lobi
   Para que os lobisomens vençam, o número de aldeões deve ser igual ao de lobisomens.
   
   Obs: Caso os jogadores restantes sejam um lobisomem e um caçador, o jogo resutará em um empate.
+  
+  ### Integrantes
+  - Jaciane Cruz
+  - José Nilton
+  - Nayara Souza
+  - Vinicius Souza
+
+### Acompanhamento
+### Professor(a)
+- Melina Mongiovi
