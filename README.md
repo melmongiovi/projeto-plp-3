@@ -23,6 +23,8 @@ Lobisomem é um jogo ambientado em uma pequena aldeia que é assombrada por lobi
   
   Obs: Caso os jogadores restantes sejam um lobisomem e um caçador, o jogo resutará em um empate.
   
+  Melina: adicionar a opção de BOTs (jogar contra o computador)
+  
   ### Integrantes
   - Jaciane Cruz
   - José Nilton
