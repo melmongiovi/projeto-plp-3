@@ -7,7 +7,8 @@
   - Raposa e galinha não podem ficar juntas e sozinhas porque a raposa irá atacar a galinha. 
   - O cachorro e a raposa não podem ficar juntos e sozinhos porque o cachorro irá atacar a raposa. 
   - As outras combinações de animais não apresentam o problema de um atacar o outro.
- O jogo tem por objetivo atravessar todos os passeiros de um lado do rio para o outro. O barqueiro pode atravessar o rio quantas vezes for necessário, desde que as regras não sejam quebradas, caso isso aconteça o jogador perde e o jogo recomeça. 
+
+O jogo tem por objetivo atravessar todos os passeiros de um lado do rio para o outro. O barqueiro pode atravessar o rio quantas vezes for necessário, desde que as regras não sejam quebradas, caso isso aconteça o jogador perde e o jogo recomeça. 
   
 ### Integrantes
   - Jaciane Cruz
