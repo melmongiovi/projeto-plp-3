@@ -10,6 +10,12 @@
 
 O jogo tem por objetivo atravessar todos os passeiros de um lado do rio para o outro. O barqueiro pode atravessar o rio quantas vezes for necessário, desde que as regras não sejam quebradas, caso isso aconteça o jogador perde e o jogo recomeça. 
   
+  MELINA: O barqueiro pode atravessar com quantos animais ao mesmo tempo?
+  Fazer uma interface textual mostrando a travessia e os animais que estão em cada margem.
+  Adicionar a funcionalidade de voltar para o passo anterior (após fazer uma travessia) caso o jogador se arrependa da travessia 
+  Adicionar a opção do usuário pedir para o computador jogar (mostrar o passo a passo da solução)
+  Proibido qualquer tipo de cópia de código disponível na internet.
+  
 ### Integrantes
   - Jaciane Cruz
   - José Nilton
